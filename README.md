@@ -5,4 +5,6 @@ Core Languages:
 1. C#
 1. Swift
 
-Basis: Math, Interactive Database
+Basis:
+1. Math
+1. Interactive Database
